@@ -1,0 +1,20 @@
+{
+  "created": "2026-09-30 07:37:36",
+  "data": [
+    "data/rf_train.csv"
+  ],
+  "train_samples": 1814,
+  "best_epoch": 66,
+  "results": {
+    "validation": {
+      "accuracy": 0.9317073170731708,
+      "macro_f1": 0.8887837603750327,
+      "samples": 205
+    },
+    "test": {
+      "accuracy": 0.9145299145299145,
+      "macro_f1": 0.9089382839382839,
+      "samples": 117
+    }
+  }
+}

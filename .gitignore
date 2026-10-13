@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# downloaded automatically on first run
+models/hand_landmarker.task
+models/*.part
+
+# outputs
+*.mp4
+typed_text.txt

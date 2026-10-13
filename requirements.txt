@@ -1,0 +1,5 @@
+# MediaPipe also installs OpenCV (opencv-contrib-python), which the apps use for the camera and window.
+mediapipe>=0.10.14
+torch>=1.13
+numpy>=1.23
+matplotlib>=3.5
